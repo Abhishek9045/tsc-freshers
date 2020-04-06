@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "TypeScript training for freshers batch",
   "scripts": {
+    "server": "json-server db.json",
     "01": "tsc && node ./01_mike-check-123/"
   },
   "repository": {
@@ -17,6 +18,13 @@
   },
   "homepage": "https://github.com/innovation-stack/tsc-freshers#readme",
   "devDependencies": {
+    "json-server": "^0.16.1",
+    "parcel": "^1.12.4",
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.15"
   }
 }
