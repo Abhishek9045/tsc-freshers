@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TypeScript training for freshers batch",
   "scripts": {
-    "01": "tsc && node ./01_check-mike-123/"
+    "01": "tsc && node ./01_mike-check-123/"
   },
   "repository": {
     "type": "git",

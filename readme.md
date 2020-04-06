@@ -14,10 +14,16 @@ node -v
 npm -v
 ```
 
-## Packages
+## Install Packages
 ```javascript
-// This npm package will be installed globally in your machine.
-npm install -g typescript
+// This will install all project's dependencies and dev-dependencies listed in package.json
+npm install
 ```
-Open terminal and type ```tsc```. On Windows, if the command is not recognized, please [update the PATH environment variable](https://stackoverflow.com/questions/47009523/not-able-to-run-globally-installed-node-packages/47011763).
+
+## Run
+Open terminal and type the following command:
+```javascript
+npm run 01
+```
+It should print out ```10``` in your terminal.
 
