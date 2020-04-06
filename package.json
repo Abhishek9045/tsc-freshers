@@ -1,0 +1,22 @@
+{
+  "name": "tsc-freshers",
+  "version": "1.0.0",
+  "description": "TypeScript training for freshers batch",
+  "scripts": {
+    "01": "tsc && node ./01_check-mike-123/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innovation-stack/tsc-freshers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innovation-stack/tsc-freshers/issues"
+  },
+  "homepage": "https://github.com/innovation-stack/tsc-freshers#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
