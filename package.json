@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TypeScript training for freshers batch",
   "scripts": {
-    "server": "json-server db.json",
+    "server": "json-server --watch db.json --routes routes.json --port 8001",
     "01": "tsc && node ./01_mike-check-123/"
   },
   "repository": {
