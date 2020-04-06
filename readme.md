@@ -19,4 +19,5 @@ npm -v
 // This npm package will be installed globally in your machine.
 npm install -g typescript
 ```
+Open terminal and type ```tsc```. On Windows, if the command is not recognized, please [update the PATH environment variable](https://stackoverflow.com/questions/47009523/not-able-to-run-globally-installed-node-packages/47011763).
 
