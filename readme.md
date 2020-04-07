@@ -14,9 +14,16 @@ node -v
 npm -v
 ```
 
+## Clone Repository
+Open terminal and type the following command to clone the repository:
+```javascript
+git clone https://github.com/innovation-stack/tsc-freshers.git
+```
+
 ## Install Packages
 ```javascript
 // This will install all project's dependencies and dev-dependencies listed in package.json
+cd tsc-freshers
 npm install
 ```
 
