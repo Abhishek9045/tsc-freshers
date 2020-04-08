@@ -4,7 +4,23 @@
   "description": "TypeScript training for freshers batch",
   "scripts": {
     "server": "json-server --watch db.json --routes routes.json --port 8001",
-    "01": "tsc && node ./01_mike-check-123/"
+    "01": "tsc && node ./01_mike-check-123/",
+    "02_numbers": "tsc && node ./02_annotation-vs-inference/01_numbers.js",
+    "02_strings": "tsc && node ./02_annotation-vs-inference/02_strings.js",
+    "02_boolean": "tsc && node ./02_annotation-vs-inference/03_booleans.js",
+    "02_object-literals": "tsc && node ./02_annotation-vs-inference/04_object-literals.js",
+    "02_arrays": "tsc && node ./02_annotation-vs-inference/05_arrays.js",
+    "02_functions": "tsc && node ./02_annotation-vs-inference/06_functions.js",
+    "03": "tsc && node ./03_arrow-functions/",
+    "04": "tsc && node ./04_modules/demo.js",
+    "05": "tsc && node ./05_type-alias/",
+    "06": "tsc && node ./06_union-types/",
+    "07": "tsc && node ./07_enums",
+    "08": "tsc && node ./08_rest-spread",
+    "09": "tsc && node ./09_generics",
+    "10_callbacks": "tsc && node ./10_async-patterns/01_callbacks",
+    "10_promise": "tsc && node ./10_async-patterns/02_promise",
+    "10_async-await": "tsc && node ./10_async-patterns/02_async-await"
   },
   "repository": {
     "type": "git",
@@ -19,12 +35,13 @@
   "homepage": "https://github.com/innovation-stack/tsc-freshers#readme",
   "devDependencies": {
     "json-server": "^0.16.1",
-    "parcel": "^1.12.4",
     "typescript": "^3.8.3"
   },
   "dependencies": {
+    "@types/request": "^2.48.4",
     "axios": "^0.19.2",
     "faker": "^4.1.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "request": "^2.88.2"
   }
 }
