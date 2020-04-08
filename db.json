@@ -44,246 +44,246 @@
   "skillsets": [
     {
       "userId": "1",
-      "technologies": [
+      "report": [
         {
-          "id": "1",
+          "techId": "1",
           "marks": 80
         },
         {
-          "id": "2",
+          "techId": "2",
           "marks": 75
         },
         {
-          "id": "7",
+          "techId": "7",
           "marks": 88
         },
         {
-          "id": "4",
+          "techId": "4",
           "marks": 67
         }
       ]
     },
     {
       "userId": 2,
-      "technologies": [
+      "report": [
         {
-          "id": "5",
+          "techId": "5",
           "marks": 97
         },
         {
-          "id": "2",
+          "techId": "2",
           "marks": 77
         },
         {
-          "id": "6",
+          "techId": "6",
           "marks": 78
         },
         {
-          "id": "3",
+          "techId": "3",
           "marks": 61
         },
         {
-          "id": "8",
+          "techId": "8",
           "marks": 71
         }
       ]
     },
     {
       "userId": 8,
-      "technologies": [
+      "report": [
         {
-          "id": "5",
+          "techId": "5",
           "marks": 90
         },
         {
-          "id": "2",
+          "techId": "2",
           "marks": 82
         },
         {
-          "id": "6",
+          "techId": "6",
           "marks": 65
         },
         {
-          "id": "3",
+          "techId": "3",
           "marks": 88
         },
         {
-          "id": "8",
+          "techId": "8",
           "marks": 70
         }
       ]
     },
     {
       "userId": 3,
-      "technologies": [
+      "report": [
         {
-          "id": "1",
+          "techId": "1",
           "marks": 97
         },
         {
-          "id": "2",
+          "techId": "2",
           "marks": 77
         },
         {
-          "id": "3",
+          "techId": "3",
           "marks": 78
         },
         {
-          "id": "4",
+          "techId": "4",
           "marks": 61
         },
         {
-          "id": "9",
+          "techId": "9",
           "marks": 71
         }
       ]
     },
     {
       "userId": 4,
-      "technologies": [
+      "report": [
         {
-          "id": "9",
+          "techId": "9",
           "marks": 97
         },
         {
-          "id": "8",
+          "techId": "8",
           "marks": 77
         },
         {
-          "id": "7",
+          "techId": "7",
           "marks": 78
         },
         {
-          "id": "6",
+          "techId": "6",
           "marks": 61
         },
         {
-          "id": "5",
+          "techId": "5",
           "marks": 71
         }
       ]
     },
     {
       "userId": 5,
-      "technologies": [
+      "report": [
         {
-          "id": "4",
+          "techId": "4",
           "marks": 97
         },
         {
-          "id": "3",
+          "techId": "3",
           "marks": 77
         },
         {
-          "id": "2",
+          "techId": "2",
           "marks": 78
         },
         {
-          "id": "1",
+          "techId": "1",
           "marks": 61
         },
         {
-          "id": "9",
+          "techId": "9",
           "marks": 71
         }
       ]
     },
     {
       "userId": 6,
-      "technologies": [
+      "report": [
         {
-          "id": "8",
+          "techId": "8",
           "marks": 97
         },
         {
-          "id": "7",
+          "techId": "7",
           "marks": 77
         },
         {
-          "id": "6",
+          "techId": "6",
           "marks": 78
         },
         {
-          "id": "5",
+          "techId": "5",
           "marks": 61
         },
         {
-          "id": "4",
+          "techId": "4",
           "marks": 71
         }
       ]
     },
     {
       "userId": 5,
-      "technologies": [
+      "report": [
         {
-          "id": "5",
+          "techId": "5",
           "marks": 97
         },
         {
-          "id": "4",
+          "techId": "4",
           "marks": 77
         },
         {
-          "id": "9",
+          "techId": "9",
           "marks": 78
         },
         {
-          "id": "8",
+          "techId": "8",
           "marks": 61
         },
         {
-          "id": "7",
+          "techId": "7",
           "marks": 71
         }
       ]
     },
     {
       "userId": 6,
-      "technologies": [
+      "report": [
         {
-          "id": "7",
+          "techId": "7",
           "marks": 97
         },
         {
-          "id": "5",
+          "techId": "5",
           "marks": 77
         },
         {
-          "id": "3",
+          "techId": "3",
           "marks": 78
         },
         {
-          "id": "1",
+          "techId": "1",
           "marks": 61
         },
         {
-          "id": "8",
+          "techId": "8",
           "marks": 71
         }
       ]
     },
     {
       "userId": 7,
-      "technologies": [
+      "report": [
         {
-          "id": "2",
+          "techId": "2",
           "marks": 97
         },
         {
-          "id": "4",
+          "techId": "4",
           "marks": 77
         },
         {
-          "id": "8",
+          "techId": "8",
           "marks": 78
         },
         {
-          "id": "6",
+          "techId": "6",
           "marks": 61
         },
         {
-          "id": "1",
+          "techId": "1",
           "marks": 71
         }
       ]
