@@ -6,7 +6,10 @@
     "server": "json-server --watch db.json --routes routes.json --port 3001",
     "01": "tsc && node ./01_mike-check-123",
     "02": "tsc && node ./02_js-vs-ts",
-    "03_numbers": "tsc && node ./03_annotation-vs-inference/01_numbers.js"
+    "03_numbers": "tsc && node ./03_annotation-vs-inference/01_numbers.js",
+    "03_strings": "tsc && node ./03_annotation-vs-inference/02_strings.js",
+    "03_boolean": "tsc && node ./03_annotation-vs-inference/03_boolean.js",
+    "03_object-literals": "tsc && node ./03_annotation-vs-inference/04_object-literals.js"
   },
   "repository": {
     "type": "git",
