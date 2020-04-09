@@ -18,11 +18,11 @@
   },
   "homepage": "https://github.com/innovation-stack/tsc-freshers#readme",
   "devDependencies": {
+    "@types/request": "^2.48.4",
     "json-server": "^0.16.1",
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "@types/request": "^2.48.4",
     "axios": "^0.19.2",
     "request": "^2.88.2"
   }
