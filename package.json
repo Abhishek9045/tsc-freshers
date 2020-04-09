@@ -9,7 +9,9 @@
     "03_numbers": "tsc && node ./03_annotation-vs-inference/01_numbers.js",
     "03_strings": "tsc && node ./03_annotation-vs-inference/02_strings.js",
     "03_boolean": "tsc && node ./03_annotation-vs-inference/03_boolean.js",
-    "03_object-literals": "tsc && node ./03_annotation-vs-inference/04_object-literals.js"
+    "03_object-literals": "tsc && node ./03_annotation-vs-inference/04_object-literals.js",
+    "03_arrays": "tsc && node ./03_annotation-vs-inference/05_arrays.js",
+    "03_functions": "tsc && node ./03_annotation-vs-inference/06_functions.js"
   },
   "repository": {
     "type": "git",

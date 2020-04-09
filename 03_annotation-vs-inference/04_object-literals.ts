@@ -12,7 +12,7 @@ let todo = {
     completed: false
 };
 
-let anotherTodo: { id: number, text: string, completed: boolean  } = {
+let anotherTodo: { id: number, text: string, completed: boolean } = {
     id: 2,
     text: 'Teach Angular',
     completed: false
