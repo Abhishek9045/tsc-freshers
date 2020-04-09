@@ -11,7 +11,8 @@
     "03_boolean": "tsc && node ./03_annotation-vs-inference/03_boolean.js",
     "03_object-literals": "tsc && node ./03_annotation-vs-inference/04_object-literals.js",
     "03_arrays": "tsc && node ./03_annotation-vs-inference/05_arrays.js",
-    "03_functions": "tsc && node ./03_annotation-vs-inference/06_functions.js"
+    "03_functions": "tsc && node ./03_annotation-vs-inference/06_functions.js",
+    "04": "tsc && node ./04_modules"
   },
   "repository": {
     "type": "git",
