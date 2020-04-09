@@ -4,7 +4,9 @@
   "description": "TypeScript training for freshers batch",
   "scripts": {
     "server": "json-server --watch db.json --routes routes.json --port 3001",
-    "01": "tsc && node ./01_mike-check-123"
+    "01": "tsc && node ./01_mike-check-123",
+    "02": "tsc && node ./02_js-vs-ts",
+    "03_numbers": "tsc && node ./03_annotation-vs-inference/01_numbers.js"
   },
   "repository": {
     "type": "git",

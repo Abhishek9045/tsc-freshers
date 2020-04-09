@@ -7,4 +7,5 @@ class MyClass {
 }
 
 const obj = new MyClass();
+
 console.log(obj.data);
