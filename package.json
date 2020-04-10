@@ -14,7 +14,8 @@
     "03_functions": "tsc && node ./03_annotation-vs-inference/06_functions.js",
     "04": "tsc && node ./04_modules",
     "05": "tsc && node ./05_arrow-functions",
-    "06": "tsc && node ./06_type-alias"
+    "06": "tsc && node ./06_type-alias",
+    "07": "tsc && node ./07_union-types"
   },
   "repository": {
     "type": "git",
