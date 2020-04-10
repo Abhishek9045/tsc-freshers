@@ -17,7 +17,8 @@
     "06": "tsc && node ./06_type-alias",
     "07": "tsc && node ./07_union-types",
     "08": "tsc && node ./08_enums",
-    "09": "tsc && node ./09_rest-spread"
+    "09": "tsc && node ./09_rest-spread",
+    "10": "tsc && node ./10_generics"
   },
   "repository": {
     "type": "git",
