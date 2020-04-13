@@ -18,7 +18,10 @@
     "07": "tsc && node ./07_union-types",
     "08": "tsc && node ./08_enums",
     "09": "tsc && node ./09_rest-spread",
-    "10": "tsc && node ./10_generics"
+    "10": "tsc && node ./10_generics",
+    "11_callback": "tsc && node ./11_async-patterns/01_callbacks",
+    "11_promise": "tsc && node ./11_async-patterns/02_promises",
+    "11_async-await": "tsc && node ./11_async-patterns/03_async-await"
   },
   "repository": {
     "type": "git",
